@@ -1,21 +1,21 @@
 # 🚀 TeamSync
 
-Welcome to **TeamSync** — your all-in-one collaborative team management platform! 🎯
+Welcome to **TeamSync** — your modern, full-stack MERN collaboration platform built with TypeScript and Tailwind CSS! 🎯
 
 ---
 
 ## ✨ Features
 
-- 👥 **Team Collaboration:** Easily assign tasks, track progress, and communicate in real time.  
-- 🔒 **Secure Access:** Powered by Spring Security for role-based authentication and authorization.  
-- 📱 **Responsive Design:** Works smoothly on desktops, tablets, and mobile devices using Bootstrap.  
+- 👥 **Team Collaboration:** Assign tasks, track progress, and communicate seamlessly in real time.  
+- 🔒 **Secure Authentication:** Strong user authentication and role-based access control.  
+- 🎨 **Stylish & Responsive UI:** Built with React, TypeScript, and Tailwind CSS for a sleek and responsive experience.  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Backend: `Java`, `Spring Boot`, `Spring Security`, `MySQL`  
-- Frontend: `HTML5`, `CSS3`, `Bootstrap`, `JavaScript`  
+- Backend: `Node.js`, `Express.js`, `MongoDB`, `TypeScript`  
+- Frontend: `React.js`, `TypeScript`, `Tailwind CSS`, `HTML5`, `CSS3`  
 - Version Control: `Git`  
 
 ---
@@ -25,4 +25,3 @@ Welcome to **TeamSync** — your all-in-one collaborative team management platfo
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/yourusername/TeamSync.git
-
